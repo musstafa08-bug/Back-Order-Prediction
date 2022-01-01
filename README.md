@@ -13,7 +13,7 @@ Check out detailed EDA <a href="https://nbviewer.org/github/musstafa08-bug/Back-
 ![Architecture](https://user-images.githubusercontent.com/64519071/147852918-0dbc2176-db21-4dbe-8f70-aa97ff75f46c.png)
 
 
-Data Description
+## Data Description
 The client will send data in multiple sets of files in batches at a given location. Data will contain 24 columns: 
 sku – 		 	Random ID for the product
 national_inv –   	Current inventory level for the part
@@ -100,3 +100,9 @@ Data Insertion in Database
    b) Check if any column has zero standard deviation, remove such columns as we did in training.
 3) Prediction - model is loaded and is used to prediction.
 4) Once the prediction is made, the predictions are saved in a CSV file at a given location and the location is returned to the client.
+
+## Prediction Logs
+
+
+## Prediction File
+

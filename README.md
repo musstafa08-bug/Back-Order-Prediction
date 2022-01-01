@@ -10,6 +10,7 @@ Check out detailed EDA <a href="https://nbviewer.org/github/musstafa08-bug/Back-
 
 
 ## Architecture
+![Architecture](https://user-images.githubusercontent.com/64519071/147852918-0dbc2176-db21-4dbe-8f70-aa97ff75f46c.png)
 
 
 Data Description

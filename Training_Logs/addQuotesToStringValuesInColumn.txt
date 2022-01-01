@@ -1,0 +1,6 @@
+2021-07-10/21:09:44		 BackOrder_10052027_120218.csv: Quotes added successfully!!
+2021-07-10/21:09:44		 BackOrder_10052028_120219.csv: Quotes added successfully!!
+2021-07-10/21:09:44		 BackOrder_10052029_120220.csv: Quotes added successfully!!
+2021-12-23/17:33:21		 BackOrder_10052027_120218.csv: Quotes added successfully!!
+2021-12-23/17:33:21		 BackOrder_10052028_120219.csv: Quotes added successfully!!
+2021-12-23/17:33:21		 BackOrder_10052029_120220.csv: Quotes added successfully!!

@@ -102,7 +102,9 @@ Data Insertion in Database
 4) Once the prediction is made, the predictions are saved in a CSV file at a given location and the location is returned to the client.
 
 ## Prediction Logs
+![Prediction_Logs](https://user-images.githubusercontent.com/64519071/147853098-3c8ffa1f-32d9-4a3b-88f5-8c36efb68d68.PNG)
 
 
 ## Prediction File
+![Prediction](https://user-images.githubusercontent.com/64519071/147853095-f75b6767-dccb-4506-8008-7a773c1bcebf.PNG)
 
